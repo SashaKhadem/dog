@@ -1,0 +1,31 @@
+{
+    "name": "🐶dog",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.6",
+        "microphone": "*",
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.1.62",
+        "tag": "v1.1.62",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/3efd62ef797d34a2c073478e7b3ac037ea4ce77e",
+        "target": "5.0.12",
+        "pxt": "4.1.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
